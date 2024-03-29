@@ -1,4 +1,5 @@
 # Trabajo práctico 1 - GIT
 
 ## Integrante:
-* [Pic Emanuel](https://github.com/manupic/emanuelpicTP1-GIT/blob/feature-emanuel/cv_pic_emanuel.md)
+* [Flores Cesar](https://github.com/manupic/emanuelpicTP1-GIT/blob/main/CV%20cesar_flores.md)
+* [Pic Emanuel](https://github.com/manupic/emanuelpicTP1-GIT/blob/main/cv_pic_emanuel.md)
