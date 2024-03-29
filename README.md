@@ -1,5 +1,4 @@
-# TP1-GIT
-Trabajo práctico 1 - Programacion III - UTN RAFAELA
+# Trabajo práctico 1 - GIT
 
-* Emanuel Pic
-* César Flores
+## Integrante:
+* [Pic Emanuel](https://github.com/manupic/emanuelpicTP1-GIT/blob/feature-emanuel/cv_pic_emanuel.md)
